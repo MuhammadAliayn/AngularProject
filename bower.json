@@ -1,17 +1,17 @@
 {
-  "name": "LookAroundApp",
+  "name": "GogleMapLookAroundAppLookAroundApp",
   "description": "AngularJS Learning Playground ( with some more items like Twitter bootstrap, Google maps API, TDD using Karma runner )",
   "license": "MIT",
   "keywords": [
     "angularjs"
   ],
-  "homepage": "https://github.com/shidhincr/LookAround",
+  "homepage": "https://github.com/Arifur/GogleMapLookAroundApp",
   "dependencies": {
     "angular": "~1.4.8",
     "angular-route": "~1.4.8"
   },
   "authors": [
-    "Sahil Bhatia <sahil@joshsoftware.com>"
+    "Arifur Rahman"
   ],
   "private": true,
   "ignore": [
